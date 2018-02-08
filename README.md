@@ -1,2 +1,2 @@
 # SquirrelTextAdventure
-Lab 2 for Game Design
+ CSCI 2941 Lab 2 Squirrel Text Game
